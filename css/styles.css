@@ -1,0 +1,17 @@
+.hide-definition {
+  display: none;
+}
+h1{
+  text-align: center;
+}
+p{
+  color: #32af9a;
+  margin: 20% 5%;
+}
+
+h2{
+  text-align: center;
+  font-weight: bolder;
+  color:#81908d;
+  font-family: cursive;
+}
