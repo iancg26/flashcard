@@ -9,3 +9,15 @@ $(document).ready(function(){
       $(".show-definition").fadeToggle();
   });
 });
+
+// $(document).ready(function(){
+//   $('').click(function() {
+// 	$(this).sibling().toggleClass('hide-definition');
+// 	return false;
+// });
+//
+//   $("this").click(function () {
+//       $(".hide-definition").fadeToggle();
+//       $(".show-definition").fadeToggle();
+//   });
+// });
